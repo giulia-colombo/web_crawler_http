@@ -1,0 +1,24 @@
+{
+  "name": "web_crawler_http",
+  "version": "1.0.0",
+  "description": "learning project",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giulia-colombo/web_crawler_http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giulia-colombo/web_crawler_http/issues"
+  },
+  "homepage": "https://github.com/giulia-colombo/web_crawler_http#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
