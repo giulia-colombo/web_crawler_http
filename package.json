@@ -6,7 +6,6 @@
   "scripts": {
     "test": "jest",
     "start": "node main.js"
-
   },
   "repository": {
     "type": "git",
@@ -20,5 +19,8 @@
   "homepage": "https://github.com/giulia-colombo/web_crawler_http#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0"
   }
 }
